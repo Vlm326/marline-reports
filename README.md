@@ -1,2 +1,22 @@
-# marline-reports
-Repository for reports on educational practice in the third semester at SPbU
+# Разработка обратного индекса для базовых чанков в алгоритмах SBC
+
+## Автор
+
+Владислав (Vlm326)
+
+## О проекте
+
+Материалы отчётов по учебной практике в третьем семестре СПбГУ. Тема работы — разработка обратного индекса для базовых чанков в алгоритмах Similarity-Based Chunking (SBC).
+
+Кодовая база проекта: [Vlm326/marline78](https://github.com/Vlm326/marline78).
+
+## Структура
+
+- [`reports/`](reports/) — отчёты по практике.
+- [`presentations/`](presentations/) — презентации.
+
+## Лицензия
+
+Авторские тексты в этом репозитории, включая отчёты, презентации и этот README, распространяются по лицензии [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ru). Подробности и границы применения лицензии приведены в [аннотации](LICENSE-ANNOTATION.md).
+
+Лицензия материалов этого репозитория не изменяет лицензию кодовой базы [marline78](https://github.com/Vlm326/marline78) и лицензии сторонних материалов, которые могут цитироваться в работах.

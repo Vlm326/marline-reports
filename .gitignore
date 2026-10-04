@@ -1,0 +1,19 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Редакторы и временные файлы
+.vscode/
+.idea/
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Кэш и сборки
+.cache/
+target/
+build/
+dist/
